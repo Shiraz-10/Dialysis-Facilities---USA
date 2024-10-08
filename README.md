@@ -1,0 +1,3 @@
+This project was done to visualize the total number of Dialysis facilities registered with Medicare and Medicaid, so that Safr Care (A platform that facilitates Non-Emergency Medical Transportation) can assess which states require the most NEMTs.  
+The amount of NEMT providers required is a direct relation to the readmission rates of these dialysis facilities, as each patient will require NEMT to get to their appointments.  
+The data was collected from the official Center for Medicare and Medicaid Services website, available at:  https://data.cms.gov/provider-data/topics/dialysis-facilities/data-sources
